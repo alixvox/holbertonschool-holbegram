@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159222398453",
+    "project_id": "holbegram-af177",
+    "storage_bucket": "holbegram-af177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159222398453:android:74c64b05ed92b87600f4bc",
+        "android_client_info": {
+          "package_name": "com.alixvox.holbegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJeTnUBW0D7_rt0tYWlDz1ygztzINzX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
